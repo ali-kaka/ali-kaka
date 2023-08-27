@@ -1,5 +1,5 @@
 # ali-kakay
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Ali!
 
 🌐 Aspiring Web Developer | HTML | CSS Enthusiast
 
