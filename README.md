@@ -16,3 +16,5 @@
 📍 [Your Location] | 📧 [Your Email] | [LinkedIn Profile (optional)] | [Portfolio Website (if applicable)]
 
 Let's connect and create something remarkable together in the ever-evolving realm of web development!
+
+![my web skills](https://github.com/ali-kaka/ali-kaka/assets/143314033/582b8bd0-0894-4f58-8f7f-f9c429f5c979)
