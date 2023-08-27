@@ -1,4 +1,4 @@
-# ali-kakay
+# ali-kaka
 👋 Hello, I'm Ali!
 
 🌐 Aspiring Web Developer | HTML | CSS Enthusiast
