@@ -1,5 +1,6 @@
 # ali-kaka
 👋 Hello, I'm Ali!
+Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in HTML, CSS, and a growing proficiency in JavaScript. With a solid grasp of web concepts and fundamentals, I'm on a journey to create engaging web experiences and contribute to the ever-evolving world of technology.
 
 🌐 Aspiring Web Developer | HTML | CSS Enthusiast
 
@@ -22,8 +23,6 @@ Here is ma weskills in HTML CSS JS
 ![my web skills](https://github.com/ali-kaka/ali-kaka/assets/143314033/582b8bd0-0894-4f58-8f7f-f9c429f5c979)
 
 ## How is my GitHub?
-
-Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in HTML, CSS, and a growing proficiency in JavaScript. With a solid grasp of web concepts and fundamentals, I'm on a journey to create engaging web experiences and contribute to the ever-evolving world of technology.
 
 ## Skills
 
