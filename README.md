@@ -22,7 +22,6 @@ Here is ma weskills in HTML CSS JS
 ![my web skills](https://github.com/ali-kaka/ali-kaka/assets/143314033/582b8bd0-0894-4f58-8f7f-f9c429f5c979)
 
 ## How is my GitHub?
-# Hello, I'm Ali-kaka 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in HTML, CSS, and a growing proficiency in JavaScript. With a solid grasp of web concepts and fundamentals, I'm on a journey to create engaging web experiences and contribute to the ever-evolving world of technology.
 
@@ -43,5 +42,11 @@ Currently, i have not project !
 - **Projects:** I showcase my projects that reflect my skills and creativity in web development.
 - **Learning:** I'm committed to continuous learning, so you might find repositories where I'm exploring new technologies and concepts.
 - **Collaboration:** I'm always open to collaborations and discussions. Feel free to reach out if you're interested in working together or sharing ideas.
+
+## Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](....)
+- Email: pyazgool@gmail.com
+- Portfolio: [Your Portfolio Website (if applicable)](....)
 
 Let's connect, collaborate, and build amazing web experiences together!
