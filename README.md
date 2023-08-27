@@ -19,11 +19,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 Let's connect and create something remarkable together in the ever-evolving realm of web development!
 
-Here is ma weskills in HTML CSS JS 
+Here is my web skills in HTML CSS JS 
 
 ![my web skills](https://github.com/ali-kaka/ali-kaka/assets/143314033/582b8bd0-0894-4f58-8f7f-f9c429f5c979)
-
-## How is my GitHub?
 
 ## Skills
 
@@ -47,6 +45,5 @@ Currently, i have not project !
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ali-people-48512326a/)
 - Email: pyazgool@gmail.com
-
 
 Let's connect, collaborate, and build amazing web experiences together!
