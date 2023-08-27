@@ -45,8 +45,8 @@ Currently, i have not project !
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](....)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ali-people-48512326a/)
 - Email: pyazgool@gmail.com
-- Portfolio: [Your Portfolio Website (if applicable)](....)
+
 
 Let's connect, collaborate, and build amazing web experiences together!
